@@ -1,0 +1,15 @@
+leanred how to capture frmae sof windows screrenshot
+
+next i will learn how to do the operations
+
+now playing with opencv and masking and shit
+
+now creating roi for better pending form roi  DONE
+
+saw hough line transform
+
+now practicing some opcev stuff
+
+
+now lane finding 
+
